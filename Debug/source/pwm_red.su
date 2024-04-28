@@ -1,0 +1,2 @@
+../source/pwm_red.c:16:6:init_RGB_LED	8	static
+../source/pwm_red.c:50:6:set_Red_LED_Brightness	16	static

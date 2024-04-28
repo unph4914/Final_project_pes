@@ -1,0 +1,5 @@
+../source/buzzer_ir_sensor.c:15:6:init_IR_Sensor	8	static
+../source/buzzer_ir_sensor.c:26:6:init_Buzzer	8	static
+../source/buzzer_ir_sensor.c:34:6:delayMicroseconds	24	static
+../source/buzzer_ir_sensor.c:40:6:playTone	24	static
+../source/buzzer_ir_sensor.c:53:6:processSensor	24	static

@@ -1,0 +1,7 @@
+../source/i2c_functions.c:17:6:i2c_init	8	static
+../source/i2c_functions.c:31:6:i2c_start	8	static
+../source/i2c_functions.c:39:6:i2c_repeated_start	8	static
+../source/i2c_functions.c:43:6:i2c_start_stop	16	static
+../source/i2c_functions.c:54:6:i2c_send_byte	24	static
+../source/i2c_functions.c:63:9:i2c_read_byte	16	static
+../source/i2c_functions.c:73:6:i2c_stop	16	static

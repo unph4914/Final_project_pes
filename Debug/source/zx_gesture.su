@@ -1,0 +1,2 @@
+../source/zx_gesture.c:17:9:zx_read_register	32	static
+../source/zx_gesture.c:27:6:zx_write_register	24	static
